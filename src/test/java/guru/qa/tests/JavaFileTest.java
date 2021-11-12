@@ -79,6 +79,7 @@ public class JavaFileTest {
                 .getStringCellValue()
                 .contains("TIFF ");
 
+        assertTrue(chekXls);
     }
 
 
